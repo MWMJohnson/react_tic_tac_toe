@@ -1,3 +1,11 @@
 export default function Square() {
-  return <button className="square">X</button>;
+  return (
+    <div>
+      <h1>Welcome to Tic Tac Toe</h1>
+      <button className="square">X</button>
+      <>
+      </>
+    </div>
+    )
+  ;
 }
